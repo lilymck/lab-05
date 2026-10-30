@@ -1,6 +1,6 @@
 ---
 title: "Lab 05 - Halloween Candies & Data Viz Improvement"
-author: "Lily"
+author: "Lily McKeeman"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -21,7 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
+The image clearly shows the countries in order of numbers of speakers. However it is not very professional looking. 
 
 
 
@@ -32,7 +32,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+This image makes it hard to understand what the data is telling us. As the slices of the pie chart are different sizes, it is difficult to easily and accurately compare data.
 
 
 
